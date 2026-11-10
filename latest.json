@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "e439b8366eb03d706e9d4d590f415f8200a06221b7dd4becd8a1df88d0f5454c",
-  "notes": "Your AI can now give a second opinion on which moments to clip, learning from your ratings which of its picks you keep. Learning reports built in."
+  "sha256": "64b09a375ecc5b66460b8e804899a0c5f7908bd49e4bacdacc8a30aa2e0d7ef2",
+  "notes": "Chat explosions rank moments higher (Twitch/YouTube chat fetched automatically, or drop a chat file). Watch channels: every new VOD gets auto-clipped. Plug in any AI (OpenRouter, Gemini, Groq, Ollama...) or your own scoring software."
 }
