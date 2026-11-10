@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "3dd80c9fb4b04d7bf510ec65fc3d57ace42108343cd4a1788ff0205886ffdb55",
-  "notes": "Learns from your ratings and edits, studies streamers' best clips, Kick/Twitch/YouTube VODs (partial downloads), WeTransfer links, your own AI key and webhooks"
+  "sha256": "e439b8366eb03d706e9d4d590f415f8200a06221b7dd4becd8a1df88d0f5454c",
+  "notes": "Your AI can now give a second opinion on which moments to clip, learning from your ratings which of its picks you keep. Learning reports built in."
 }
