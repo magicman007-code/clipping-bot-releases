@@ -5,8 +5,8 @@ streamer-aware moment finding. Runs on your own computer.
 
 ## Download
 
-**[Download the latest version](https://github.com/magicman007-code/clipping-bot-releases/releases/latest/download/clipbot-beta.zip)**
-(or pick a version on the [Releases page](https://github.com/magicman007-code/clipping-bot-releases/releases)).
+**[Download the latest version](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
+(version 1.7.0).
 
 ## Install
 
@@ -24,5 +24,5 @@ The first time, a 1-minute tour walks you through the editor. Full guide: `BETA_
 
 ## Updates
 
-Clipbot checks this page for new versions and shows an **Update** button in the top bar. Your projects and
+Clipbot checks this repository for new versions and shows an **Update** button in the top bar. Your projects and
 settings are kept.
