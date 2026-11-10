@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "0e1c3e361cf8ea5f7cb89ed6aff895ceb3efbdc7576daf77d3b060763428b647",
-  "notes": "First beta: auto-clip, prompt clipping, live clipping, editor, streamer lore and style learning"
+  "sha256": "3dd80c9fb4b04d7bf510ec65fc3d57ace42108343cd4a1788ff0205886ffdb55",
+  "notes": "Learns from your ratings and edits, studies streamers' best clips, Kick/Twitch/YouTube VODs (partial downloads), WeTransfer links, your own AI key and webhooks"
 }

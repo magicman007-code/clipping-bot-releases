@@ -1,12 +1,13 @@
 # Clipbot (beta)
 
 Turns streams, VODs and any video into short-form clips, with a full editor, captions, live clipping and
-streamer-aware moment finding. Runs on your own computer.
+streamer-aware moment finding. Paste a Kick or Twitch VOD, a YouTube video, or a Dropbox / Google Drive /
+WeTransfer link, or drop in any file. It learns from the clips you rate. Runs on your own computer.
 
 ## Download
 
 **[Download the latest version](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 1.7.0).
+(version 1.8.0).
 
 ## Install
 
