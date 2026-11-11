@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.6.zip",
-  "sha256": "d04f36f74ffa61e96d5bd6cfe59d5132c4aa36d988649b0c4576e4e574f63525",
-  "notes": "The Update button now restarts Clipbot by itself, and retries if GitHub still serves the previous download."
+  "version": "1.8.7",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.7.zip",
+  "sha256": "bfc81fed8916855872a846bb4fc7a5e3479cc1d9e7b97463a04083c002898c4c",
+  "notes": "New clean black design. Stream windows are stacked instead of cut off (and you can draw them yourself). Click anything on the video and press Delete to remove it. More clips button, Auto clip count for long videos, steady and always-on live clipping. Updates wait for running jobs and keep your own edits."
 }
