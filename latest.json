@@ -1,6 +1,6 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "3ac046dda552b273f11afb2631224a750b8dd64d44160d63ae39e17d642ab960",
-  "notes": "Clipbot now learns which connected AI picks clips you keep (and which titles you choose), and shows it in What Clipbot has learned."
+  "sha256": "d9d318ac8a2312f12b30548f1b750dfecdb1b3ef91fd1705f5658e7fab76fd3f",
+  "notes": "Mac installer: installs Python 3.12 automatically when the Mac only has the old built-in Python."
 }
