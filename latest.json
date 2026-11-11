@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "3252760a63f7ea0d690c56410ae245d77b4f59dbd89f90affebbc43724b148f0",
-  "notes": "Mac: uses Homebrew ffmpeg-full (captions and text need it); the installer installs it."
+  "version": "1.8.6",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.6.zip",
+  "sha256": "d04f36f74ffa61e96d5bd6cfe59d5132c4aa36d988649b0c4576e4e574f63525",
+  "notes": "The Update button now restarts Clipbot by itself, and retries if GitHub still serves the previous download."
 }
