@@ -1,6 +1,6 @@
 {
-  "version": "1.8.8",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.8.zip",
-  "sha256": "821d7b78d4754f1f50ef61708ade9bed5a4a245667da8eefc99c62cfa9215afe",
-  "notes": "Watch a live stream inside Clipbot and clip it by hand (Mark in, Mark out, Clip it). Fastest live clip pace (every ~2 min, still only clips that pass the quality bar)."
+  "version": "1.8.9",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.9.zip",
+  "sha256": "294317e004279a167ef961167d279339d496fb92ee6cef55654173f726b4f34f",
+  "notes": "Almost made it: moments that scored just under your bar are listed under Clips with what held them back, so you can make them into clips and fix them yourself."
 }
