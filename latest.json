@@ -1,6 +1,6 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "d9d318ac8a2312f12b30548f1b750dfecdb1b3ef91fd1705f5658e7fab76fd3f",
-  "notes": "Mac installer: installs Python 3.12 automatically when the Mac only has the old built-in Python."
+  "sha256": "3252760a63f7ea0d690c56410ae245d77b4f59dbd89f90affebbc43724b148f0",
+  "notes": "Mac: uses Homebrew ffmpeg-full (captions and text need it); the installer installs it."
 }
