@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.7.zip",
-  "sha256": "bfc81fed8916855872a846bb4fc7a5e3479cc1d9e7b97463a04083c002898c4c",
-  "notes": "New clean black design. Stream windows are stacked instead of cut off (and you can draw them yourself). Click anything on the video and press Delete to remove it. More clips button, Auto clip count for long videos, steady and always-on live clipping. Updates wait for running jobs and keep your own edits."
+  "version": "1.8.8",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.8.zip",
+  "sha256": "821d7b78d4754f1f50ef61708ade9bed5a4a245667da8eefc99c62cfa9215afe",
+  "notes": "Watch a live stream inside Clipbot and clip it by hand (Mark in, Mark out, Clip it). Fastest live clip pace (every ~2 min, still only clips that pass the quality bar)."
 }
