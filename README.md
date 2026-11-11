@@ -2,19 +2,23 @@
 
 Turns streams, VODs and any video into short-form clips, with a full editor, captions, live clipping and
 streamer-aware moment finding. Paste a Kick or Twitch VOD, a YouTube video, or a Dropbox / Google Drive /
-WeTransfer link, or drop in any file. It learns from the clips you rate. Runs on your own computer.
+WeTransfer link, or drop in any file. Moments where chat explodes rank higher, it can watch channels and clip every
+new VOD, you can plug in your own AI or scoring software, and it learns from the clips you keep. Runs on your own
+computer.
 
 ## Download
 
 **[Download the latest version](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 1.8.0).
+(version 1.8.5).
 
 ## Install
 
 **Mac**
-1. Install [Homebrew](https://brew.sh), then in Terminal run: `brew install python ffmpeg`
+1. Install [Homebrew](https://brew.sh) (paste the line it shows into Terminal, then run the "Next steps" lines it prints).
 2. Unzip the download, then in Terminal: `cd ~/Downloads/clipbot` and `./install.sh`
-3. Start it any time with `./start.sh`
+   It installs everything else itself, including Python 3.12 and the full ffmpeg (`ffmpeg-full`) that captions need.
+   It ends with `"ready": true`.
+3. Start it any time with `cd ~/Downloads/clipbot && ./start.sh`
 
 **Windows**
 1. Install [Python 3.12](https://www.python.org/downloads/) and tick **"Add python.exe to PATH"**.
