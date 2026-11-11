@@ -1,6 +1,6 @@
 {
-  "version": "1.8.9",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.8.9.zip",
-  "sha256": "6c3473bb02e9efa58793ffc2f0bad0143eb3b7856c2d94cfaaecbf4e0ec9d5a3",
+  "version": "1.9.0",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.0.zip",
+  "sha256": "e293e3f6b486e023556851709067611eabcfd1af95a26ab59d1ae14500ee5a3a",
   "notes": "Under your clips: other moments Clipbot found (even ones under your minimum), with their score and what held them back. One click makes any of them a clip to edit yourself."
 }
