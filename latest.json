@@ -1,6 +1,6 @@
 {
-  "version": "1.9.5",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.5.zip",
-  "sha256": "75d2ae308116081b0fade75d90fa1927c2b33debeb1ec24fa655e13e9253ea42",
-  "notes": "Publish long videos to YouTube from Edits: AI title, description (with chapters) and tags, big-creator thumbnails from the edit, upload or schedule."
+  "version": "1.9.6",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.6.zip",
+  "sha256": "e2270f011372dbad7356f374abdb8a7b115174ed6901cb34c7d0b68263fc31b6",
+  "notes": "YouTube end screen on long videos (20 s with guides for subscribe and video cards). Make Shorts from any long edit: the best moment of each part becomes a 9:16 clip."
 }
