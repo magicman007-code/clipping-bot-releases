@@ -1,6 +1,6 @@
 {
-  "version": "1.9.7",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.7.zip",
-  "sha256": "f7d20f6fcde4ca14c0c4ba7dc645dd8b6ead2b211c3e6722be1b414f950b04e3",
-  "notes": "Security and stability: other websites can no longer control the Clipbot editor, double-clicks can no longer upload or build twice, bad requests never crash it, sign-ins refresh safely, the free AI answers faster or says it is busy. After updating, reload the Clipbot page once."
+  "version": "1.9.8",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.8.zip",
+  "sha256": "35dc3d33e1ae39cd7b12db7bb8d789713d3b57a34116d7e8734bad3c96cba75f",
+  "notes": "Simpler: opens in Simple mode with just the essentials and a 1-2-3-4 guide (Pick a clip, Make it yours, Render, Post). Pro shows every tool. New: Make a YouTube video straight from Home."
 }
