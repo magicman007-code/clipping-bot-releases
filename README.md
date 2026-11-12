@@ -9,7 +9,7 @@ computer.
 ## Download
 
 **[Download the latest version](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 1.9.8).
+(version 1.9.9).
 
 ## Install
 
