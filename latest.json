@@ -1,6 +1,6 @@
 {
-  "version": "1.9.2",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.2.zip",
-  "sha256": "398893b711d5ccb034ffd1c91b1def2dc070805756deed463a2ab16cba3a1228",
-  "notes": "Long-form editor: turn long streams into YouTube videos, then change parts (drop, retime, reorder, add) and rebuild. Trailer/hype edits. Big-creator thumbnails with AI scenes. Built-in free AI (no key needed), Skills to teach the AI your taste, Help me write this for prompts. Terms of use screen."
+  "version": "1.9.3",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.3.zip",
+  "sha256": "a9ad2f932352984f3a51090732284b2e095a0e1f86005db69ebb4bc2926edafc",
+  "notes": "Post to TikTok from Clipbot (draft to your TikTok inbox, or direct post) with your own TikTok app. Make real Twitch clips from the live viewer. Setup steps in CONNECT.md."
 }
