@@ -1,6 +1,6 @@
 {
-  "version": "1.9.9",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.9.zip",
-  "sha256": "d4cccb75655ffc78228112961a6352dd55a4e42cc03b90e9bb12a7fc873e38cd",
-  "notes": "Edit on the video like a design tool: Add text, emoji or blur; drag to move, drag the corner to resize, arrow keys nudge, Ctrl+D duplicate, Delete removes. Blur, pixelate or black out faces, names or chat. Edit any part of a long YouTube video in the full editor. The final video now matches the preview layout."
+  "version": "2.0.0",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.0.0.zip",
+  "sha256": "525ccfd058030acd1a349b9c94418b120aa0ced6f7b6698dad569c958d751931",
+  "notes": "Clipbot 2.0: polished layout that fits every screen from small laptops to big monitors, one clean toolbar above the video (steps, or the selected item's actions, plus Add), selection can no longer act on the wrong clip. Includes everything from 1.9.x: on-video editing, blur, long-form editor, YouTube publishing, TikTok, Simple and Pro."
 }
