@@ -1,6 +1,6 @@
 {
-  "version": "1.9.1",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.1.zip",
-  "sha256": "49d9fca5ead501f94b6605e0f4572eb13ed8c0a7a89272ea79ba26837ffcc3f0",
-  "notes": "Post it: send to your phone (QR), posting folder for Buffer/Later/Make, YouTube upload and scheduling. Views tracked from any post link and learned from. Style presets, campaign rules check, share setups with your team, paste many links at once, translated subtitles, hook opener, phone alerts."
+  "version": "1.9.2",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.2.zip",
+  "sha256": "398893b711d5ccb034ffd1c91b1def2dc070805756deed463a2ab16cba3a1228",
+  "notes": "Long-form editor: turn long streams into YouTube videos, then change parts (drop, retime, reorder, add) and rebuild. Trailer/hype edits. Big-creator thumbnails with AI scenes. Built-in free AI (no key needed), Skills to teach the AI your taste, Help me write this for prompts. Terms of use screen."
 }
