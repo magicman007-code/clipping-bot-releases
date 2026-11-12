@@ -1,6 +1,6 @@
 {
-  "version": "1.9.4",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.4.zip",
-  "sha256": "a727665a3cccbe0b2092331269a06263b125c09884696914bb648f653c7e54d9",
-  "notes": "Long-form editor: find any moment by typing what was said and add it as a part. TikTok views now come straight from TikTok when connected."
+  "version": "1.9.5",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.5.zip",
+  "sha256": "75d2ae308116081b0fade75d90fa1927c2b33debeb1ec24fa655e13e9253ea42",
+  "notes": "Publish long videos to YouTube from Edits: AI title, description (with chapters) and tags, big-creator thumbnails from the edit, upload or schedule."
 }
