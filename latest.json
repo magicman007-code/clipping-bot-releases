@@ -1,6 +1,6 @@
 {
-  "version": "1.9.0",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.0.zip",
-  "sha256": "e293e3f6b486e023556851709067611eabcfd1af95a26ab59d1ae14500ee5a3a",
-  "notes": "Under your clips: other moments Clipbot found (even ones under your minimum), with their score and what held them back. One click makes any of them a clip to edit yourself."
+  "version": "1.9.1",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-1.9.1.zip",
+  "sha256": "49d9fca5ead501f94b6605e0f4572eb13ed8c0a7a89272ea79ba26837ffcc3f0",
+  "notes": "Post it: send to your phone (QR), posting folder for Buffer/Later/Make, YouTube upload and scheduling. Views tracked from any post link and learned from. Style presets, campaign rules check, share setups with your team, paste many links at once, translated subtitles, hook opener, phone alerts."
 }
