@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.0.0.zip",
-  "sha256": "525ccfd058030acd1a349b9c94418b120aa0ced6f7b6698dad569c958d751931",
-  "notes": "Clipbot 2.0: polished layout that fits every screen from small laptops to big monitors, one clean toolbar above the video (steps, or the selected item's actions, plus Add), selection can no longer act on the wrong clip. Includes everything from 1.9.x: on-video editing, blur, long-form editor, YouTube publishing, TikTok, Simple and Pro."
+  "version": "2.1.0",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.1.0.zip",
+  "sha256": "705881783cb0bf32ee7bc02d87c1c3ea307c3ddc84f3307cef4dbe4169c51a20",
+  "notes": "Smarter phone alerts (links to your posted video, failures flagged, renders grouped; one-button setup with QR code). The first-launch screen asks whether to share learning reports and whether to use the free AI. One-click demo project to try everything. Updated guide and tour."
 }
