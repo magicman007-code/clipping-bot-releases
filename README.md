@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.3.0) · Mac, Windows and Linux.
+(version 2.4.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -16,10 +16,13 @@ waits for running jobs to finish. Reload the page once after updating.
 | | |
 |---|---|
 | **Auto-clip** | Finds the best moments in a stream (speech, reactions, chat spikes), scores them, and makes finished vertical clips with captions and a headline. Pick how many, or press **More clips**. |
+| **Follows who's talking** | A speaker-detection model watches each face and listens to the audio, and the vertical crop follows whoever is talking. When everyone fits, everyone stays in frame; when it can't tell, it shows both instead of guessing. |
 | **Edit anything** | Click anything on the video to move, resize, duplicate or delete it. **Add** text, emoji or a **blur** (blur, pixelate or black box for faces, names or chat). Captions, fonts, framing, stream windows, cuts, undo. |
 | **Make a YouTube video** | Turns a long stream into a 5–30 minute video: best stories in order, cold open, chapter cards, YouTube chapters and an end screen. Change, retime or reorder the parts, or open any part in the full editor, then rebuild. |
 | **Thumbnails** | Big-creator style thumbnails from the real frame, with the person cut out and bold words, plus optional AI backgrounds. |
 | **Publish and schedule** | Upload to YouTube (title, description, tags, thumbnail), post to TikTok (draft or direct), send to your phone with a QR code, or use a folder that Buffer or Later picks up. **Schedule posts** spreads clips over the coming days, for example 2 a day. |
+| **Tell a clip what to change** | Type "cut the first 4 seconds", "follow the guy on the left", "fix the caption that says X, it should say Y" or "tighten this to the punchline". It changes that one clip, re-renders it, says what it did, and Undo takes it back. |
+| **Checked, not just rendered** | Every clip reports its caption error rate (bar: 8%, or you approve), how much of the talking shows the speaker, and the footage's true resolution. Every clip also comes as a 1920x1080 landscape version. |
 | **Results** | Views for everything you post, new views in the last 24 hours, and what's working for you: which lengths, times and platforms get the most views. |
 | **Track accounts** | Paste any YouTube, TikTok, Twitch or Kick profile to follow its followers and views, even accounts you haven't connected. Posts that match your clips are linked automatically. Instagram Reel views with your own token. |
 | **Shorts from long videos** | One click turns each part of a long video into a vertical Short. |
@@ -63,6 +66,25 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.4.0**: fixes from a live IRL Kick test
+- **The crop follows who's talking.** A speaker-detection model (Light-ASD) checks each face against the voice. On
+  test footage with known speakers, the person talking is on screen 91% of the time, up from 77%, and the wrong
+  person is picked 2.5% of the time, down from 13%. Unsure stretches show both people.
+- **Captions:** speech that used to vanish is back. A repeated phrase could wipe out up to 30 seconds of captions,
+  and Whisper could silently skip part of a window; both are fixed. Lines the model isn't sure of are left out
+  instead of shown wrong. Each clip shows its real caption error rate, checked against a separate transcription;
+  over 8%, it isn't done until you fix or approve the captions. Captions also stay clear of every face in the shot.
+- **True 1080p:** live recording used to take 720p; now live and downloads take the best version up to 1080p and log
+  what they got. The top bar shows the footage's real resolution and turns red under 1080p.
+- **Landscape:** every final render also makes a 1920x1080 version.
+- **Better picks:** a clip must have a payoff (a laugh, reaction, reveal or chat spike) to score above 5/10. Clips
+  end on the payoff, 15-25 s is preferred, dead air and cut-off endings cost points, and the best three are marked
+  Top 3.
+- **Prompt box on every clip** (top of the Clip tab).
+- **Hardening:** saved files survive crashes and damage (a damaged project opens and restores its last good clip
+  list), empty folder paths are refused, the scheduler skips broken entries, and failed background jobs show their
+  error instead of waiting forever.
 
 **2.3.0**
 - **Guide for beginners:** a 10-step, hands-on checklist on the demo project. Plain words, a "Show me" button that

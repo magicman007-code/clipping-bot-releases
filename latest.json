@@ -1,6 +1,6 @@
 {
- "version": "2.3.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.3.0.zip",
- "sha256": "3c7adf0ba0b0e0b685f412c52dbf7fe0305d1e24184c1931bb980c8ec3c81aaa",
- "notes": "Step-by-step Guide for beginners on the demo project; track any YouTube, TikTok, Twitch or Kick account in Results; Instagram Reel views with your own token (renewed automatically); failed jobs now show their error instead of waiting forever."
+ "version": "2.4.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.4.0.zip",
+ "sha256": "8e68bc8acfc65d8d42fa62b888ac44d3f03647aac17e836af76908203a31bc32",
+ "notes": "Follows whoever is talking (new speaker model); captions: no more lost speech, unsure lines left out, honest error rate with an 8% gate; true 1080p from live streams; payoff-first picks with Top 3; type what you want on any clip; landscape 16:9 version of every clip."
 }
