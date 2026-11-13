@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.1.0) · Mac, Windows and Linux.
+(version 2.2.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -19,7 +19,8 @@ waits for running jobs to finish. Reload the page once after updating.
 | **Edit anything** | Click anything on the video to move, resize, duplicate or delete it. **Add** text, emoji or a **blur** (blur, pixelate or black box for faces, names or chat). Captions, fonts, framing, stream windows, cuts, undo. |
 | **Make a YouTube video** | Turns a long stream into a 5–30 minute video: best stories in order, cold open, chapter cards, YouTube chapters and an end screen. Change, retime or reorder the parts, or open any part in the full editor, then rebuild. |
 | **Thumbnails** | Big-creator style thumbnails from the real frame, with the person cut out and bold words, plus optional AI backgrounds. |
-| **Publish** | Upload to YouTube (title, description, tags, thumbnail, schedule), post to TikTok (draft or direct), send to your phone with a QR code, or use a folder that Buffer or Later picks up. Views are tracked. |
+| **Publish and schedule** | Upload to YouTube (title, description, tags, thumbnail), post to TikTok (draft or direct), send to your phone with a QR code, or use a folder that Buffer or Later picks up. **Schedule posts** spreads clips over the coming days, for example 2 a day. |
+| **Results** | Views for everything you post, new views in the last 24 hours, and what's working for you: which lengths, times and platforms get the most views. |
 | **Shorts from long videos** | One click turns each part of a long video into a vertical Short. |
 | **Live** | Clips a stream while it's live, or watches a channel and clips every new VOD. Can make real Twitch clips. |
 | **Learns** | Your ratings, edits, views and streamer notes ("lore") shape the next picks. Optional skills teach the AI your taste. |
@@ -57,6 +58,15 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.2.0**
+- **Schedule posts:** spread rendered clips over the coming days on YouTube (it publishes them even if your computer is
+  off), as TikTok drafts, or to your posting folder. Cancel or retry them in Results.
+- **Results:** total views, last 24 hours, best clip, a trend line for every post, and "What's working" patterns
+  (for example "Clips under 20 s get 2.9× the views"), compared fairly by views per day.
+- **Fix a word everywhere:** double-click a misheard word or name and it's fixed throughout the video, and remembered so
+  future transcriptions get it right.
+- Home and Results keep the left rail usable.
 
 **2.1.0**
 - Phone alerts are smarter: posts link straight to the video, failures are flagged, and several renders arrive as one

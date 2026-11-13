@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.1.0.zip",
-  "sha256": "705881783cb0bf32ee7bc02d87c1c3ea307c3ddc84f3307cef4dbe4169c51a20",
-  "notes": "Smarter phone alerts (links to your posted video, failures flagged, renders grouped; one-button setup with QR code). The first-launch screen asks whether to share learning reports and whether to use the free AI. One-click demo project to try everything. Updated guide and tour."
+  "version": "2.2.0",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.2.0.zip",
+  "sha256": "0bcc583c8e28c32efb395aa0e78d2b648a3bb7159778f786365b61e3d4f3534f",
+  "notes": "Schedule posts over the coming days (YouTube, TikTok drafts, posting folder). New Results page: views, last 24 hours, best clip, trends and what is working for you. Fix a misheard word everywhere and teach the spelling to future transcriptions."
 }
