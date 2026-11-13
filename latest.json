@@ -1,6 +1,6 @@
 {
- "version": "2.4.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.4.0.zip",
- "sha256": "8e68bc8acfc65d8d42fa62b888ac44d3f03647aac17e836af76908203a31bc32",
- "notes": "Follows whoever is talking (new speaker model); captions: no more lost speech, unsure lines left out, honest error rate with an 8% gate; true 1080p from live streams; payoff-first picks with Top 3; type what you want on any clip; landscape 16:9 version of every clip."
+ "version": "2.5.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.5.0.zip",
+ "sha256": "d4b15bc1893c7ec7da6df8facd6f6246779382aeb30d2c8b8d20ed0377921510",
+ "notes": "Picks now hear laughter and cheering on the stream and see reactions (looks to camera, double takes, shock faces); chat only counts when it is busy, so small streamers get picks from what happens on stream; faster renders with your computer's video encoder."
 }

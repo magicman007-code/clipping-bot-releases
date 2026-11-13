@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.4.0) · Mac, Windows and Linux.
+(version 2.5.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -66,6 +66,19 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.5.0**: picks that hear and see the moment
+- **Hears the room:** a sound model picks out laughter, cheering and applause on the stream, measured against that
+  stream's own background. Tested on real recordings: it catches 80% of laughs with 1% false alarms. Under talking
+  and crowd noise, a second with laughter outranks one without 93% of the time.
+- **Sees reactions** in the best moments: a look into the camera, a double take, a side look, a face dropping into
+  shock, disgust or a big laugh. Each face is compared with its own resting look, and a talking mouth isn't mistaken
+  for shock (about one false beat per minute of calm talking).
+- **Chat counts only when it's busy.** A small streamer's quiet chat no longer drives picks; what happens on stream
+  does.
+- **Faster renders** with your computer's video encoder (Apple, NVIDIA or Intel), falling back automatically if it
+  doesn't work.
+- The download is bigger (about 42 MB) because the sound and face models are included; nothing is sent anywhere.
 
 **2.4.0**: fixes from a live IRL Kick test
 - **The crop follows who's talking.** A speaker-detection model (Light-ASD) checks each face against the voice. On
