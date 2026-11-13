@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.2.0.zip",
-  "sha256": "0bcc583c8e28c32efb395aa0e78d2b648a3bb7159778f786365b61e3d4f3534f",
-  "notes": "Schedule posts over the coming days (YouTube, TikTok drafts, posting folder). New Results page: views, last 24 hours, best clip, trends and what is working for you. Fix a misheard word everywhere and teach the spelling to future transcriptions."
+ "version": "2.3.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.3.0.zip",
+ "sha256": "3c7adf0ba0b0e0b685f412c52dbf7fe0305d1e24184c1931bb980c8ec3c81aaa",
+ "notes": "Step-by-step Guide for beginners on the demo project; track any YouTube, TikTok, Twitch or Kick account in Results; Instagram Reel views with your own token (renewed automatically); failed jobs now show their error instead of waiting forever."
 }

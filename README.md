@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.2.0) · Mac, Windows and Linux.
+(version 2.3.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -21,14 +21,19 @@ waits for running jobs to finish. Reload the page once after updating.
 | **Thumbnails** | Big-creator style thumbnails from the real frame, with the person cut out and bold words, plus optional AI backgrounds. |
 | **Publish and schedule** | Upload to YouTube (title, description, tags, thumbnail), post to TikTok (draft or direct), send to your phone with a QR code, or use a folder that Buffer or Later picks up. **Schedule posts** spreads clips over the coming days, for example 2 a day. |
 | **Results** | Views for everything you post, new views in the last 24 hours, and what's working for you: which lengths, times and platforms get the most views. |
+| **Track accounts** | Paste any YouTube, TikTok, Twitch or Kick profile to follow its followers and views, even accounts you haven't connected. Posts that match your clips are linked automatically. Instagram Reel views with your own token. |
 | **Shorts from long videos** | One click turns each part of a long video into a vertical Short. |
 | **Live** | Clips a stream while it's live, or watches a channel and clips every new VOD. Can make real Twitch clips. |
 | **Learns** | Your ratings, edits, views and streamer notes ("lore") shape the next picks. Optional skills teach the AI your taste. |
 | **Phone alerts** | Free push alerts (ntfy) when clips are ready, a video is built, a post goes up or something fails. |
 
 **Simple mode** (the default) shows only what you need, with a 1-2-3-4 guide: Pick → Edit → Render → Post. **Pro**
-shows every tool. New here? Press **Open the demo project** on Home to try everything without your own footage, and
-**Take the 1-minute tour**.
+shows every tool.
+
+**New here?** Press **Open the demo project** on Home. A **Guide** opens beside it and walks you through 10 small steps
+in plain words (watch a clip, change the headline, add text, blur, trim, render, make a YouTube video, post, see
+results). **Show me** lights up the right button, and each step ticks itself off when you do it. Press **Guide** in the
+top bar to bring it back any time.
 
 ## Install
 
@@ -58,6 +63,17 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.3.0**
+- **Guide for beginners:** a 10-step, hands-on checklist on the demo project. Plain words, a "Show me" button that
+  highlights where to click, and steps that tick themselves off. The tester guide starts with a no-experience quick
+  start and a few words explained.
+- **Track accounts** in Results: followers, recent views, new views since yesterday and top posts for any YouTube,
+  TikTok, Twitch or Kick profile, checked every 6 hours. Your clips are found on those accounts automatically.
+- **Instagram views** through Instagram's official API with your own token (steps in `CONNECT.md`). Clipbot renews the
+  token weekly so it doesn't expire.
+- Fixed: when a background job failed (a render, an upload, a YouTube edit), the screen could keep waiting instead of
+  showing what went wrong. It now shows the error straight away.
 
 **2.2.0**
 - **Schedule posts:** spread rendered clips over the coming days on YouTube (it publishes them even if your computer is
