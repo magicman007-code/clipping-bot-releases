@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.8.0) · Mac, Windows and Linux.
+(version 2.9.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -69,6 +69,12 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.9.0**
+- **Help center.** Press **Help** (top bar or left bar) or the **?** key: every feature explained in plain words,
+  with a search box and **Show me** buttons that light up the right control. Covers getting started, Simple vs Pro
+  (and how to switch), editing, captions, images, split screen, downloading, posting, live, results, settings and
+  fixes for common errors.
 
 **2.8.0**
 - **Clipbot is a real app now.** Mac: Clipbot.app in your Applications folder, with its own icon. It stays in the

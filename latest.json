@@ -1,6 +1,6 @@
 {
- "version": "2.8.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.8.0.zip",
- "sha256": "5f843b65eeef9802f36f94aaf6cb4425d9c62033a55a01aecfc690e48864463b",
- "notes": "Clipbot is a real app: Clipbot.app in Applications (Mac), Start menu + desktop (Windows), its own window, Cmd+Q quits. After updating, press Add Clipbot on the Home screen."
+ "version": "2.9.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.9.0.zip",
+ "sha256": "e2fe4e2c4b0d83dbb80a1041a388e10175f406846bd7edd2af6041e3cd062fe4",
+ "notes": "Help center: press Help or ? for every feature in plain words, with search and Show me buttons (incl. how to switch Simple/Pro). Cleaner top bar on laptops."
 }
