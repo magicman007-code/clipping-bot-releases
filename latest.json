@@ -1,6 +1,6 @@
 {
- "version": "2.6.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.6.0.zip",
- "sha256": "4c1a84a0b6a472eb7bc88b0bbb43c694c4adbf34f8d02ab58f2f4fa1e0f69e5e",
- "notes": "Downloading is one button: Save to Downloads puts the video, its 16:9 copy and subtitles in Downloads/Clipbot. Render + download moved to the top of the Export tab. Change one clip or all clips by typing what to change."
+ "version": "2.7.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.7.0.zip",
+ "sha256": "b2ff12b547042e95d23d84860c988095523488af4d551119e030f5e633f53947",
+ "notes": "Split screen with your own picture or video (top or bottom, 3 sizes). Image button to put pictures on any clip. Fixed Render failed / moov atom not found: cut-off recordings are rebuilt or explained. Update checks work on Macs with python.org Python."
 }

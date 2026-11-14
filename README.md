@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.6.0) · Mac, Windows and Linux.
+(version 2.7.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -66,6 +66,19 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.7.0**
+- **Split screen with your own picture or video.** Put the streamer in one half and a screenshot, tweet, meme,
+  product photo, gameplay or b-roll in the other. Streamer on top or bottom, three sizes, and pictures can show
+  whole (blurred edges) or fill the space. Clip tab → Framing → Layout → *Split screen + your video or picture*.
+- **Image button** in the Add bar above the video: drop a picture (logo, screenshot, meme) anywhere on the clip,
+  drag to move, drag the corner to resize. No longer hidden in Pro mode.
+- **Fixed "Render failed … moov atom not found".** A recording or download that got cut off (computer slept, app
+  closed, internet dropped) used to leave a broken video. Clipbot now writes every video under a temporary name until
+  it's finished, records live streams in a format that survives being cut off, rebuilds a broken file when it can,
+  and otherwise tells you in plain words what happened and what to do.
+- **Updates on Macs with Python from python.org** now work even if its certificates were never installed (the
+  update check used to fail silently). If an update check fails, Settings now says so.
 
 **2.6.0**
 - Downloading is one button. Render a clip and press **Save to Downloads**: the vertical video, its 16:9 copy and
