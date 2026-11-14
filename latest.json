@@ -1,6 +1,6 @@
 {
- "version": "2.5.1",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.5.1.zip",
- "sha256": "1bb115bb83b6367438632fceaa496539f8a4e59266b5ca3fb3b64b9f9a18b429",
- "notes": "Captions ease out once a phrase is finished: when the speaker pauses, the line stays readable for a moment, then fades away instead of sitting on screen. The editor preview matches."
+ "version": "2.5.2",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.5.2.zip",
+ "sha256": "e878fd377bd9c393130ccf3faba2ce96d9b22af1534eba1ad7d1e91704e09946",
+ "notes": "Caption polish: a phrase never leaves its last word alone on a line, a caption at the very end of a clip finishes its fade, and the ease-out works the same in every style and in the preview."
 }

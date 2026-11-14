@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.5.1) · Mac, Windows and Linux.
+(version 2.5.2) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -66,6 +66,11 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.5.2**
+- Caption polish: a phrase never leaves its last word alone on a line ("HE ACTUALLY / JUMPED IT!", not
+  "HE ACTUALLY JUMPED / IT!"); a caption at the very end of a clip finishes fading before the video ends; the
+  ease-out is checked in every caption style and matches the editor preview exactly.
 
 **2.5.1**
 - Captions ease out once a phrase is finished. When the speaker pauses, the line stays readable for a moment, then
