@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.5.0) · Mac, Windows and Linux.
+(version 2.5.1) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -66,6 +66,11 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.5.1**
+- Captions ease out once a phrase is finished. When the speaker pauses, the line stays readable for a moment, then
+  fades away (and shrinks a touch in the Pro style) instead of sitting on screen through the pause. Fast talking
+  still swaps lines instantly. The editor preview shows the same thing.
 
 **2.5.0**: picks that hear and see the moment
 - **Hears the room:** a sound model picks out laughter, cheering and applause on the stream, measured against that

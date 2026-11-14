@@ -1,6 +1,6 @@
 {
- "version": "2.5.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.5.0.zip",
- "sha256": "d4b15bc1893c7ec7da6df8facd6f6246779382aeb30d2c8b8d20ed0377921510",
- "notes": "Picks now hear laughter and cheering on the stream and see reactions (looks to camera, double takes, shock faces); chat only counts when it is busy, so small streamers get picks from what happens on stream; faster renders with your computer's video encoder."
+ "version": "2.5.1",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.5.1.zip",
+ "sha256": "1bb115bb83b6367438632fceaa496539f8a4e59266b5ca3fb3b64b9f9a18b429",
+ "notes": "Captions ease out once a phrase is finished: when the speaker pauses, the line stays readable for a moment, then fades away instead of sitting on screen. The editor preview matches."
 }
