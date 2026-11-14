@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.5.2) · Mac, Windows and Linux.
+(version 2.6.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -66,6 +66,15 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.6.0**
+- Downloading is one button. Render a clip and press **Save to Downloads**: the vertical video, its 16:9 copy and
+  the subtitles go straight into your **Downloads → Clipbot** folder (no save dialogs, same on Mac and PC), with
+  **Show in folder** to open it. **Save all finished clips to Downloads** grabs every clip from the stream at once.
+- Render and download now sit at the top of the **Export ⬇** tab instead of the bottom. Browser downloads still
+  work and now save with readable names (`stream-clip.mp4`) instead of opening the video in a tab.
+- The "Tell Clipbot what to change" box: change one clip or all of them at once (one Undo), a Hide button, and
+  press `/` to jump to it.
 
 **2.5.2**
 - Caption polish: a phrase never leaves its last word alone on a line ("HE ACTUALLY / JUMPED IT!", not

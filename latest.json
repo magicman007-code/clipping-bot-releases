@@ -1,6 +1,6 @@
 {
- "version": "2.5.2",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.5.2.zip",
- "sha256": "e878fd377bd9c393130ccf3faba2ce96d9b22af1534eba1ad7d1e91704e09946",
- "notes": "Caption polish: a phrase never leaves its last word alone on a line, a caption at the very end of a clip finishes its fade, and the ease-out works the same in every style and in the preview."
+ "version": "2.6.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.6.0.zip",
+ "sha256": "4c1a84a0b6a472eb7bc88b0bbb43c694c4adbf34f8d02ab58f2f4fa1e0f69e5e",
+ "notes": "Downloading is one button: Save to Downloads puts the video, its 16:9 copy and subtitles in Downloads/Clipbot. Render + download moved to the top of the Export tab. Change one clip or all clips by typing what to change."
 }
