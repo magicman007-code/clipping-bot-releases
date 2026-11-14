@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.7.0) · Mac, Windows and Linux.
+(version 2.8.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -42,15 +42,18 @@ top bar to bring it back any time.
 
 **Mac**
 1. Install [Homebrew](https://brew.sh) (paste the line it shows into Terminal, then run the "Next steps" lines it prints).
-2. Unzip the download, then in Terminal: `cd ~/Downloads/clipbot` and `./install.sh`.
-   It installs everything else itself, including Python 3.12 and the full ffmpeg that captions need. It ends with
-   `"ready": true`.
-3. Start it any time with `cd ~/Downloads/clipbot && ./start.sh`.
+2. Unzip the download and move the `clipbot` folder somewhere it can stay (your home folder; not Desktop or iCloud).
+3. Right-click **`Install Clipbot.command`** → **Open** (right-click only the first time). It sets everything up,
+   puts **Clipbot in your Applications folder** and opens it. After that, open Clipbot like any app: Applications,
+   Launchpad, Spotlight or the Dock.
 
 **Windows**
 1. Install [Python 3.12](https://www.python.org/downloads/) and tick **"Add python.exe to PATH"**.
 2. Unzip to a folder like `C:\clipbot` (not inside OneDrive).
-3. Right-click `install.ps1` → **Run with PowerShell**. Start it any time by double-clicking `start.bat`.
+3. Right-click `install.ps1` → **Run with PowerShell**. Clipbot is then in the **Start menu** and on your
+   **desktop**, and opens without a console window.
+
+**Already have Clipbot?** Press **Update** in the top bar, then **Add Clipbot** on the Home screen.
 
 **Linux:** unzip, then `./install.sh` and `./start.sh`.
 
@@ -66,6 +69,13 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**2.8.0**
+- **Clipbot is a real app now.** Mac: Clipbot.app in your Applications folder, with its own icon. It stays in the
+  Dock while open, Cmd+Q quits, and it opens in its own window (no browser tabs) when Chrome, Edge or Brave is
+  installed. Windows: Clipbot in the Start menu and on the desktop, no black console window. New installs get it
+  automatically; existing users press **Add Clipbot** on the Home screen after updating.
+- Opening Clipbot twice brings up the open copy instead of starting a second one. **Quit Clipbot** on the Home screen.
 
 **2.7.0**
 - **Split screen with your own picture or video.** Put the streamer in one half and a screenshot, tweet, meme,

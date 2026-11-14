@@ -1,6 +1,6 @@
 {
- "version": "2.7.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.7.0.zip",
- "sha256": "b2ff12b547042e95d23d84860c988095523488af4d551119e030f5e633f53947",
- "notes": "Split screen with your own picture or video (top or bottom, 3 sizes). Image button to put pictures on any clip. Fixed Render failed / moov atom not found: cut-off recordings are rebuilt or explained. Update checks work on Macs with python.org Python."
+ "version": "2.8.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-2.8.0.zip",
+ "sha256": "5f843b65eeef9802f36f94aaf6cb4425d9c62033a55a01aecfc690e48864463b",
+ "notes": "Clipbot is a real app: Clipbot.app in Applications (Mac), Start menu + desktop (Windows), its own window, Cmd+Q quits. After updating, press Add Clipbot on the Home screen."
 }
