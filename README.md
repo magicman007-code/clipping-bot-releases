@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 3.1.0) · Mac, Windows and Linux.
+(version 3.1.1) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -69,6 +69,10 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**3.1.1**
+- Live clips: captions are re-made from each clip's own audio with the best speech model on your computer
+  (the fast live pass is only used to find moments). In testing that cut wrong words on screen from 25% to 12%.
 
 **3.1.0**
 - **Headlines that hook.** Every clip gets a short, punchy headline built from what actually happened: "POV: you

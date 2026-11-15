@@ -1,6 +1,6 @@
 {
- "version": "3.1.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-3.1.0.zip",
- "sha256": "942deeec33fde911470aaeff7781712549683c0cd5bda6318f34afe6b6c8460b",
- "notes": "Punchy fact-checked headlines and post titles (POV / setup-then-twist / questions), shorter clips (11-45s, aiming 12-24), live clipping fixes and clearer Live screen."
+ "version": "3.1.1",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-3.1.1.zip",
+ "sha256": "a27bc3f424ad9f0c72edf1239be2cffec2ff6866d32515eb94f67f5681e4db5a",
+ "notes": "Live clips get captions re-made from the clip itself with the best speech model (wrong words 25% -> 12% in testing)."
 }
