@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 2.9.0) · Mac, Windows and Linux.
+(version 3.0.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -69,6 +69,19 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**3.0.0**
+- **Carousels.** Edits → Carousel turns a stream into a swipeable image post (Instagram, TikTok photo mode, LinkedIn,
+  X): a cover with the hook and the streamer's face, one slide per best moment with their real words and the amount
+  highlighted, and a follow slide. 4:5, 1:1 or 9:16, three looks, your @handle. Edit any slide and redraw.
+- **Written posts.** Edits → Posts drafts a stream recap with timestamps, a YouTube description with chapters, an
+  X / Threads thread, a LinkedIn post and a blog / newsletter draft, all from what was actually said. Anything an AI
+  adds is checked against the transcript and left out if it isn't supported.
+- **10 starter skills** (Gaming, IRL / Just Chatting, Podcast, Casino, Crypto, Sports reaction, Comedy,
+  Educational, Music, Drama / Debate): pick one under Options on the New screen so the picks and titles fit your kind
+  of stream from the first try. Edit one to make your own version.
+- Hardening: every server address re-tested with 4,200 hostile requests (no errors, nothing outside your projects
+  folder touched); downloads, carousels and posts refuse files outside your projects.
 
 **2.9.0**
 - **Help center.** Press **Help** (top bar or left bar) or the **?** key: every feature explained in plain words,
