@@ -1,6 +1,6 @@
 {
- "version": "3.1.1",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-3.1.1.zip",
- "sha256": "a27bc3f424ad9f0c72edf1239be2cffec2ff6866d32515eb94f67f5681e4db5a",
- "notes": "Live clips get captions re-made from the clip itself with the best speech model (wrong words 25% -> 12% in testing)."
+ "version": "3.2.0",
+ "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-3.2.0.zip",
+ "sha256": "f786c4fa9369ae778296cde553b8d3355034b455507e2e10f2de427e808f5920",
+ "notes": "Cleaner Home with a project grid, Projects and Processes pages, GIPHY GIFs/stickers/emoji, and Clipbot lands in Applications and the Dock."
 }

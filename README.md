@@ -6,7 +6,7 @@ Paste a Kick, Twitch or YouTube link, a Dropbox, Google Drive or WeTransfer link
 ## Download
 
 **[Download Clipbot Studio](https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip)**
-(version 3.1.1) · Mac, Windows and Linux.
+(version 3.2.0) · Mac, Windows and Linux.
 
 Already installed? Press **Update** in the top bar. Your projects, settings and your own edits are kept, and the update
 waits for running jobs to finish. Reload the page once after updating.
@@ -69,6 +69,17 @@ covered step by step in `CONNECT.md`.
   them. The full terms are in `TERMS.md` and are shown on first launch.
 
 ## What's new
+
+**3.2.0**
+- **A cleaner Home.** Paste a link and press Get clips, or pick Cut it myself, YouTube video or Live clipper from the
+  tabs. Your recent projects show as a grid with a picture, where they came from, how many clips they have and live
+  progress while they're working.
+- **Projects and Processes pages.** Find any project with search and filters, and see everything Clipbot is working
+  on, step by step, with time left.
+- **GIFs, stickers and animated emoji from GIPHY.** Press GIF above the video, search, click one and drag it into
+  place. It loops in the preview and in the finished clip. Add your free GIPHY key in Settings first.
+- **Clipbot opens like a normal app.** After updating, Clipbot is in your Applications folder and in your Dock (Mac),
+  or the Start menu and desktop (Windows).
 
 **3.1.1**
 - Live clips: captions are re-made from each clip's own audio with the best speech model on your computer
