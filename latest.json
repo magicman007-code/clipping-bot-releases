@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "7ef2024ca851ecccfb87d3ff53426030b4de98cd62000954724ab81cf6f2ade3",
-  "notes": "Installer crash fixed + GIPHY, Learn my style, brand kit, stream finder, and posting to X/Discord/Telegram. Ready for GTA 6."
+  "sha256": "d8c02e86c409bae4b0f63416c530bc3edeb31b44590edaab1eb4476e6dd02e82",
+  "notes": "Smarter quality gate: reason codes, auto-repair of loudness/peak/fast-start, and a clear pass/fix/look chip on every clip. Clearer stream finder + tutorial."
 }
