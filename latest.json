@@ -1,6 +1,6 @@
 {
- "version": "3.2.0",
- "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/versions/clipbot-3.2.0.zip",
- "sha256": "f786c4fa9369ae778296cde553b8d3355034b455507e2e10f2de427e808f5920",
- "notes": "Cleaner Home with a project grid, Projects and Processes pages, GIPHY GIFs/stickers/emoji, and Clipbot lands in Applications and the Dock."
+  "version": "3.2.1",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
+  "sha256": "7ef2024ca851ecccfb87d3ff53426030b4de98cd62000954724ab81cf6f2ade3",
+  "notes": "Installer crash fixed + GIPHY, Learn my style, brand kit, stream finder, and posting to X/Discord/Telegram. Ready for GTA 6."
 }
