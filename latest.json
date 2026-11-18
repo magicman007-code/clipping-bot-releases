@@ -1,6 +1,6 @@
 {
-  "version": "3.2.4",
+  "version": "3.3.0",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "cbbc81441231bf1df6f6a417cbe1473897d32424b05f475de1438db0b65a27fb",
-  "notes": "Submit a link and it runs start to finish \u2014 your clips open only when the whole job is done. Clearer progress, updated tutorial, cropping verified."
+  "sha256": "66e5e387b42d8972c31cfd300701f3f8ec6ba217fec72d7c58a01606302d8a1c",
+  "notes": "Category Watch: one click clips ALL the top live GTA 6 streams at once. Plus walk-away finish notifications and one-click Re-render."
 }
