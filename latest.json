@@ -1,6 +1,6 @@
 {
-  "version": "3.3.1",
-  "zip": "https://raw.githubusercontent.com/magicman007-code/clipping-bot-releases/main/clipbot-beta.zip",
-  "sha256": "cd4c3d4c408a07508c87a348d5fb4eb79d5faa05bcc818aebafefbeeee64c7b4",
-  "notes": "Live sessions end cleanly - no more stuck 'live clipping' after a stream goes offline; updates are no longer falsely blocked; batch jobs always finish in a clear state."
+  "version": "3.4.0",
+  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
+  "sha256": "cc600888114fc36987ebc6eb1db76bd5feb738358848abc91f12f5fc9f2bc718",
+  "notes": "Cleanup pass: plainer messages, less Home clutter, and a new automated UI test. Includes the 3.3.1 live-session fixes."
 }
