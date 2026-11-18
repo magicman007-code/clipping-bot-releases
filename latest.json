@@ -1,6 +1,6 @@
 {
-  "version": "3.4.2",
+  "version": "3.4.3",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "d9b910621cf698e4bb0c8e34cba0869d9a02740e705df3f302ed2dfb1f07bc5b",
-  "notes": "Tidier Settings and one-click Twitch connect: paste your Client ID and press Connect (no separate Save). Plus the Home cleanup and plainer messages from 3.4.x."
+  "sha256": "958d7939545fc4bef444ed422c5f2fba23e43c862676dbad265a4b907b9bd07b",
+  "notes": "Clearer Export tab: the title/caption section is no longer confusingly named 'Post' next to 'Post it'. Continues the 3.4.x cleanup."
 }
