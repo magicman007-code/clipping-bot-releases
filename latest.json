@@ -1,6 +1,6 @@
 {
-  "version": "3.4.3",
+  "version": "3.4.4",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "958d7939545fc4bef444ed422c5f2fba23e43c862676dbad265a4b907b9bd07b",
-  "notes": "Clearer Export tab: the title/caption section is no longer confusingly named 'Post' next to 'Post it'. Continues the 3.4.x cleanup."
+  "sha256": "b06b93e21ab3c8036ee7716cc29e568b490d1672e07c621c1066569efbdee5ef",
+  "notes": "New 'Find all my clips' button on Home - opens the folder with every project's clips in one click."
 }
