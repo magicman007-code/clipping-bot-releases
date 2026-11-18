@@ -1,6 +1,6 @@
 {
-  "version": "3.3.0",
-  "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "66e5e387b42d8972c31cfd300701f3f8ec6ba217fec72d7c58a01606302d8a1c",
-  "notes": "Category Watch: one click clips ALL the top live GTA 6 streams at once. Plus walk-away finish notifications and one-click Re-render."
+  "version": "3.3.1",
+  "zip": "https://raw.githubusercontent.com/magicman007-code/clipping-bot-releases/main/clipbot-beta.zip",
+  "sha256": "cd4c3d4c408a07508c87a348d5fb4eb79d5faa05bcc818aebafefbeeee64c7b4",
+  "notes": "Live sessions end cleanly - no more stuck 'live clipping' after a stream goes offline; updates are no longer falsely blocked; batch jobs always finish in a clear state."
 }
