@@ -1,6 +1,6 @@
 {
-  "version": "3.4.1",
+  "version": "3.4.2",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "d24b24b1b812503e60916a1d4fcf04b4cfd76144ac1825fcd494d522615171a2",
-  "notes": "Home cleanup: removed duplicate 'Open editor' and 'AI live clipper' shortcuts; the Home shortcut row is now all distinct tools. Builds on 3.4.0's plainer messages and the automated UI test."
+  "sha256": "d9b910621cf698e4bb0c8e34cba0869d9a02740e705df3f302ed2dfb1f07bc5b",
+  "notes": "Tidier Settings and one-click Twitch connect: paste your Client ID and press Connect (no separate Save). Plus the Home cleanup and plainer messages from 3.4.x."
 }
