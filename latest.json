@@ -1,6 +1,6 @@
 {
-  "version": "3.2.3",
+  "version": "3.2.4",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "84b0015c3e7df60e57ce18fa640f6d15dad8d2b4d26ffee56a2a6f7be125527a",
-  "notes": "Clearer, calmer, and a Help that works. Plain labels (Find more moments, Size, Title on the video, Delete part), one-click rescan, Open clips folder, and live clips double-checked before QC."
+  "sha256": "cbbc81441231bf1df6f6a417cbe1473897d32424b05f475de1438db0b65a27fb",
+  "notes": "Submit a link and it runs start to finish \u2014 your clips open only when the whole job is done. Clearer progress, updated tutorial, cropping verified."
 }
