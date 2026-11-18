@@ -1,6 +1,6 @@
 {
-  "version": "3.4.0",
+  "version": "3.4.1",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "cc600888114fc36987ebc6eb1db76bd5feb738358848abc91f12f5fc9f2bc718",
-  "notes": "Cleanup pass: plainer messages, less Home clutter, and a new automated UI test. Includes the 3.3.1 live-session fixes."
+  "sha256": "d24b24b1b812503e60916a1d4fcf04b4cfd76144ac1825fcd494d522615171a2",
+  "notes": "Home cleanup: removed duplicate 'Open editor' and 'AI live clipper' shortcuts; the Home shortcut row is now all distinct tools. Builds on 3.4.0's plainer messages and the automated UI test."
 }
