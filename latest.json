@@ -1,6 +1,6 @@
 {
-  "version": "3.4.14",
+  "version": "3.4.15",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "3fd1ed8985091bf5fa8023200b9f899eab9edabf70521594be2716a5a234d95b",
-  "notes": "The left panel says 'Start another project' when you already have one open, instead of a confusing 'New project'."
+  "sha256": "5d0ce19187932fa89d42650c0a6ace4210cb2bb337897627cb7d985c7173aed1",
+  "notes": "All clips gallery now has search and a project filter, with a live match count."
 }
