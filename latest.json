@@ -1,6 +1,6 @@
 {
-  "version": "3.4.12",
+  "version": "3.4.13",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "ad28184816d6914ca4dae6bbd7da1e896f85a51656317ea72d42549583c184bf",
-  "notes": "Fixed: Schedule-posts status/error messages were hidden (shared an id with Settings); they show correctly now."
+  "sha256": "2852666ecb67c26f44b9a3c8f7190ab57b584b3e37edbf4c8605127b6439422d",
+  "notes": "Framing is clearer: labelled 'how the clip is cropped to fit' with a hint on when to switch it."
 }
