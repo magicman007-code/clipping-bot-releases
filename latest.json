@@ -1,6 +1,6 @@
 {
-  "version": "3.4.11",
+  "version": "3.4.12",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "d2c266bdd44bb4ff8cc1f6bbf3b9a78439102876c09b0c9ab7dc17831e1e0902",
-  "notes": "Fixed: clicking Watch on a different moment now previews that moment instead of showing the same clip."
+  "sha256": "ad28184816d6914ca4dae6bbd7da1e896f85a51656317ea72d42549583c184bf",
+  "notes": "Fixed: Schedule-posts status/error messages were hidden (shared an id with Settings); they show correctly now."
 }
