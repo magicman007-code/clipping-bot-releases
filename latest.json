@@ -1,6 +1,6 @@
 {
-  "version": "3.4.15",
+  "version": "3.4.16",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "5d0ce19187932fa89d42650c0a6ace4210cb2bb337897627cb7d985c7173aed1",
-  "notes": "All clips gallery now has search and a project filter, with a live match count."
+  "sha256": "804a8ed711dfd899682611bf5739e6c15da525f1bccb6edad2dcf46d0f56cdfb",
+  "notes": "If a Twitch sign-in expires, Settings now clearly says to reconnect instead of showing a stale 'Connected'."
 }
