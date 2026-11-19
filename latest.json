@@ -1,6 +1,6 @@
 {
-  "version": "3.4.10",
+  "version": "3.4.11",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "9c59727373b3d07d3bef63eedf3674f37da24d6b7d1013d8a1d48b1b4bd1488e",
-  "notes": "Starting an auto-clip now shows a clean building/progress state instead of the previous project's clips."
+  "sha256": "d2c266bdd44bb4ff8cc1f6bbf3b9a78439102876c09b0c9ab7dc17831e1e0902",
+  "notes": "Fixed: clicking Watch on a different moment now previews that moment instead of showing the same clip."
 }
