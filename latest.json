@@ -1,6 +1,6 @@
 {
-  "version": "3.4.8",
+  "version": "3.4.9",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "114d78770ee455b96e394b6982d121b93a36ef0af1b1acf81c84aaf5daaef194",
-  "notes": "Tidier Clips panel: 'Open clips folder' no longer wraps onto three lines."
+  "sha256": "d85dec7f4ee0ab7d89e1f90555ad851d5161382820ff35fe056c74b94ce530a8",
+  "notes": "Category Watch now asks you to confirm clip rights just once, then remembers - no more confirming on every start."
 }
