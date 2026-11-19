@@ -1,6 +1,6 @@
 {
-  "version": "3.4.9",
+  "version": "3.4.10",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "d85dec7f4ee0ab7d89e1f90555ad851d5161382820ff35fe056c74b94ce530a8",
-  "notes": "Category Watch now asks you to confirm clip rights just once, then remembers - no more confirming on every start."
+  "sha256": "9c59727373b3d07d3bef63eedf3674f37da24d6b7d1013d8a1d48b1b4bd1488e",
+  "notes": "Starting an auto-clip now shows a clean building/progress state instead of the previous project's clips."
 }
