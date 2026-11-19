@@ -1,6 +1,6 @@
 {
-  "version": "3.4.7",
+  "version": "3.4.8",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "bc23f5ae30cde9bb3688b7578e7fccbf27f3aebc85e3449d44440488c65c6296",
-  "notes": "Home now opens with a clear headline and one-line explainer so new users instantly know what to do."
+  "sha256": "114d78770ee455b96e394b6982d121b93a36ef0af1b1acf81c84aaf5daaef194",
+  "notes": "Tidier Clips panel: 'Open clips folder' no longer wraps onto three lines."
 }
