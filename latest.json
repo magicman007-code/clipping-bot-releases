@@ -1,6 +1,6 @@
 {
-  "version": "3.4.6",
+  "version": "3.4.7",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "e4c756031534a0edbb80e6278e48d00d5383a570226b370f1a602520c57ecd55",
-  "notes": "'All clips' is now in the left sidebar - every clip from every project, one click from any screen."
+  "sha256": "bc23f5ae30cde9bb3688b7578e7fccbf27f3aebc85e3449d44440488c65c6296",
+  "notes": "Home now opens with a clear headline and one-line explainer so new users instantly know what to do."
 }
