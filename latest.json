@@ -1,6 +1,6 @@
 {
-  "version": "3.4.5",
+  "version": "3.4.6",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "ea0efbf9b24fd712ec234c8311ca80334d0b7050696eb06bd2c15c9151e84d7b",
-  "notes": "New 'All clips' gallery: one place to see, play and download every clip from every project. Opens from the 'Find all my clips' button on Home."
+  "sha256": "e4c756031534a0edbb80e6278e48d00d5383a570226b370f1a602520c57ecd55",
+  "notes": "'All clips' is now in the left sidebar - every clip from every project, one click from any screen."
 }
