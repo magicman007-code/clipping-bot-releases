@@ -1,6 +1,6 @@
 {
-  "version": "3.5.1",
+  "version": "3.5.2",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "16c3ddf2996d90761553aa2321c0470c4fc40d0f52bae435c7e33b83f09c9fdc",
-  "notes": "The Home screen now leads with what makes Clipbot different: it catches moments live as you stream (with Always-on clipping every stream you do), plus a note that everything runs on your own computer. Clipping and rendering are unchanged."
+  "sha256": "3e03bda9f0642b34caba5d7f015c34208f6bce30a43ccfbd04f0a67082cfea0d",
+  "notes": "A calmer first run: before you have any projects, Home shows one clear path (link box + a quiet More tools link) instead of every tool at once. After your first project, Home is unchanged."
 }
