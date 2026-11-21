@@ -1,6 +1,6 @@
 {
-  "version": "3.4.17",
+  "version": "3.5.0",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "bbb6383c2b0e82105428080cbf0160dbdd567fcd3e4428d93931641ab7e94abe",
-  "notes": "Always on now clearly says it's waiting for the channel's next stream instead of looking like it stopped."
+  "sha256": "cf69db983aaa6d01b47f4022003453362f0c3de367f0115922f08201218b666a",
+  "notes": "One cleaner, more consistent look: the app now uses a single accent colour (the coral you see on Live and Render) for every active/selected state, instead of green, yellow and blue all at once. Your clips, captions and renders are unchanged."
 }
