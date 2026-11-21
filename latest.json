@@ -1,6 +1,6 @@
 {
-  "version": "3.5.0",
+  "version": "3.5.1",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "cf69db983aaa6d01b47f4022003453362f0c3de367f0115922f08201218b666a",
-  "notes": "One cleaner, more consistent look: the app now uses a single accent colour (the coral you see on Live and Render) for every active/selected state, instead of green, yellow and blue all at once. Your clips, captions and renders are unchanged."
+  "sha256": "16c3ddf2996d90761553aa2321c0470c4fc40d0f52bae435c7e33b83f09c9fdc",
+  "notes": "The Home screen now leads with what makes Clipbot different: it catches moments live as you stream (with Always-on clipping every stream you do), plus a note that everything runs on your own computer. Clipping and rendering are unchanged."
 }
