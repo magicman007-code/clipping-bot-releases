@@ -1,6 +1,6 @@
 {
-  "version": "3.5.3",
+  "version": "3.5.4",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "46dd9ef1bf8edd1d8cbb14575b8c96a8cbb59e217574f0b29987cbd36d875837",
-  "notes": "Clips now show a small amber 'Check before posting' note when the transcript has strong language, sexual wording, or a slur \u2014 advisory only, never changes the clip or its score. Helps you avoid sending something a brand campaign or monetised page would reject."
+  "sha256": "e58a33f87fde300188410cc0c9531ad0f35a33594762ff6b5664c11f2d2fab82",
+  "notes": "New Combine clips mode in Edits: tick clips, reorder with up/down, add other video files, and Clipbot joins them into one 1080x1920 video with matched loudness. Good for compilations and best-of reels."
 }
