@@ -1,6 +1,6 @@
 {
-  "version": "3.5.4",
+  "version": "3.6.0",
   "zip": "https://github.com/magicman007-code/clipping-bot-releases/raw/main/clipbot-beta.zip",
-  "sha256": "e58a33f87fde300188410cc0c9531ad0f35a33594762ff6b5664c11f2d2fab82",
-  "notes": "New Combine clips mode in Edits: tick clips, reorder with up/down, add other video files, and Clipbot joins them into one 1080x1920 video with matched loudness. Good for compilations and best-of reels."
+  "sha256": "674d4d33fcaddbed5c1aff7e8c0e91945e52dc1eb49d5231153c611472e5eb2c",
+  "notes": "A bolder, richer look: the app moves off flat black onto a warm graphite base with a bit of depth on cards, slightly bigger/tighter headlines, and steppers + cards unified to the same coral as Live and Render. Clips and renders are unchanged."
 }
